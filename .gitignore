@@ -1,0 +1,37 @@
+# PyInstaller
+build/
+dist/
+*.pyc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data and credentials
+.env
+.env.*
+!.env.example
+*.xlsx
+*.xlsm
+*.csv
+*.log
+
+# Local artifacts
+.DS_Store
